@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashutosh Singh Umath [@s4-t0sh].
+- 👋 Hi, I’m Ashutosh Singh Umath [@As4t0sh].
 - 👀 I’m interested in Web Development, Scripting as well as Penetration Testing. 
 - 🌱 I’m currently learning API Development, Penetration testing for Android, Bug Hunting and the way to OSCP.
 - 💞️ I’m looking to collaborate on Web Development and Scripting.
